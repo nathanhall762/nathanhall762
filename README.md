@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nathanhall762
-- 👀 I’m interested in ... Using my time and energy to meaningfully contribute to a community that WORKS to improve global socioeconomic equitability.
+- 👀 I’m interested in ... Using my time and energy to meaningfully contribute to a community that __WORKS__ to improve global socioeconomic equality.
 - 🌱 I’m currently learning ... c, html, css
 
 
