@@ -1,2 +1,5 @@
-- 👋 Hi, I’m @nathanhall762
-- 🌱 I’m currently learning ... Full Stack Web Dev
+🎥 Streaming
+🔊 Sound
+🎶 Songs
+🌐 Web Solutions
+linktr.ee/itsjusthall
