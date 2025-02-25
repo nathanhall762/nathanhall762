@@ -1,5 +1,3 @@
-🎥 Streaming<br>
-🔊 Sound<br>
-🎶 Songs<br>
-🌐 Web Solutions<br>
+![image](/NathanHallSoftwareEngineerBusinessWebDeveloper.jpeg)
+
 linktr.ee/itsjusthall
